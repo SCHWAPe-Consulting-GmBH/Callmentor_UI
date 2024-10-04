@@ -1,17 +1,56 @@
 {
-  "Science": [
-    "What is the theory of relativity?",
-    "How does gravity work?",
-    "What are the states of matter?"
-  ],
-  "History": [
-    "Who was Alexander the Great?",
-    "What caused the fall of the Roman Empire?",
-    "What were the main events of World War II?"
-  ],
-  "Technology": [
-    "What is the Internet of Things (IoT)?",
-    "How does blockchain technology work?",
-    "What are quantum computers?"
-  ]
+	"Thema: Qualifizierungsfragen (Ist der Teilnehmer für uns geeignet?)":[
+		"1. Bist du aktuell beim Jobcenter oder der Arbeitsagentur gemeldet und beziehst du dort Leistungen?",
+		"2. Bei welchem Jobcenter oder bei welcher Agentur für Arbeit bist du gemeldet und wie lange bist du dort schon registriert?"
+	],
+	"Thema: Herausforderungen – Vermittlungshemmnisse":[
+		"1. Warum hattest du dich bei uns gemeldet bzw. wo wünschst du dir Unterstützung?",
+		"2. Wo sind aktuell deine größten Herausforderungen?",
+		"3. Wie sieht dein aktueller Alltag aus? Welche Herausforderungen hast du damit?",
+		"4. Wo siehst du aktuell deine größten Herausforderungen bei der Jobsuche?",
+		"5. Ist die Betreuungssituation der Kinder geklärt?",
+		"6. Gibt es äußere Faktoren wie Familie oder Gesundheit, die es dir schwer machen, dich auf die Jobsuche zu konzentrieren?",
+		"7. Hast du aktuell gesundheitliche oder mentale Probleme? Wenn ja, wie lange schon und was genau?",
+		"8. Wie gehst du mit dieser schwierigen Phase um, und was hilft dir in solchen Momenten?",
+		"9. Sind deine Kinder gesund?",
+		"10. Warum bist du aus dem letzten Arbeitsverhältnis ausgeschieden?",
+		"11. Wie fühlst du dich aktuell?",
+		"12. Wie kommst du mit der deutschen Kultur klar?",
+		"13. Wie kommst du mit der deutschen Bürokratie klar?",
+		"14. Sind deine Abschlüsse auch schon anerkannt?",
+		"15. Hast du an einem Sprachkurs teilgenommen? Wenn ja, welches Sprachniveau hast du?",
+		"16. Hast du aktuell auch finanzielle Probleme?",
+		"17. Hast du aktuell einen Führerschein?"
+	 ],
+	"Thema: Berufliche Motivation und Ziele":[
+		"1. Hast du schon konkrete Vorstellungen, in welche Richtung du dich beruflich entwickeln möchtest?",
+		"2. Welcher Job oder welche Tätigkeit würde dich glücklich machen?",
+		"3. Gibt es bestimmte Berufe oder Branchen, die dich besonders interessieren?",
+		"4. Was wäre ein Einkommen, mit dem du zufrieden wärst bzw. was stellst du dir vor, damit du davon leben kannst und nicht nur überleben musst?",
+		"5. Was motiviert dich am meisten, wieder in den Beruf einzusteigen?",
+		"6. Wie stellst du dir den nächsten Schritt vor? Was wäre eine erste, machbare Veränderung?"
+	 ],
+	"Thema: Bewerbungsprozess und Unterstützung":[
+		"1. Hast du bereits Bewerbungen geschrieben? Wenn ja, wie lief das bisher?",
+		"2. Welche deiner bisherigen beruflichen Erfahrungen möchtest du weiterhin nutzen oder ausbauen?",
+		"3. Was würdest du von deinem persönlichen Coach brauchen, um die Hilfe zu bekommen, die du benötigst?",
+		"4. Welche Art von Unterstützung wünschst du dir?",
+		"5. In welchen Bereichen könnten wir dich am besten unterstützen? Bewerbungen, Selbstbewusstsein, berufliche Orientierung?",
+		"6. Was müsste passieren, damit du dich sicherer fühlst, den nächsten beruflichen Schritt zu machen?"
+	 ],
+	"Thema: Verhältnis zum Jobcenter oder zur Agentur für Arbeit":[
+		"1. Wie ist dein Verhältnis zu deinem Vermittler?",
+		"2. Denkst du, dass du Unterstützung bei der Kommunikation mit dem Jobcenter oder der Arbeitsagentur brauchst?",
+		"3. Wurde dir schon einmal ein Coaching oder eine Weiterbildung abgelehnt?",
+		"4. Hast du schon einmal an einem Coaching oder einer Maßnahme teilgenommen? Wenn ja, wie war es?"
+	 ],
+	"Thema: Persönliche Stärken und Schwächen":[
+		"1. Was sind deine größten Stärken, die du in deinem Beruf einbringen kannst und eventuell auch deine Schwächen?",
+		"2. Wo würdest du charakterlich deine Stärken sehen und wo deine Schwächen?"
+	 ],
+	"Zusätzlich benötigen wir folgende Informationen von den Teilnehmern":[
+		"Kontaktdaten: Geburtsdatum, Adresse, Kundennummer",
+		"Technische Unterstützung: Benötigt der Teilnehmer einen Laptop oder WLAN?",
+		"Vermittlerinformationen: Hat der Teilnehmer die Kontaktdaten seines Vermittlers vom Jobcenter? (Telefonnummer und E-Mail-Adresse)"
+	]
 }
