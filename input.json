@@ -1,0 +1,17 @@
+{
+  "Science": [
+    "What is the theory of relativity?",
+    "How does gravity work?",
+    "What are the states of matter?"
+  ],
+  "History": [
+    "Who was Alexander the Great?",
+    "What caused the fall of the Roman Empire?",
+    "What were the main events of World War II?"
+  ],
+  "Technology": [
+    "What is the Internet of Things (IoT)?",
+    "How does blockchain technology work?",
+    "What are quantum computers?"
+  ]
+}
